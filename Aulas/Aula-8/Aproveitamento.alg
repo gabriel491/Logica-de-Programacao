@@ -19,7 +19,7 @@ inicio
           se (m <=8.9) e (m >= 8.0) entao
              escreval("APROVEITAMENTO B")
           senao
-               se(m <= 7.9) e (m >= 7.0) entao
+               se(m <= 7.9) e (m >= 7.0 ) entao
                     escreval("APROVEITAMENTO C")
                senao
                     se (m <= 6.9) e (m >= 6.0) entao
